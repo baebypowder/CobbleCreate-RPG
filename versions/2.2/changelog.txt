@@ -1,0 +1,34 @@
+## Added
+- **AllTheMons**
+- **Modpack Update Checker**
+
+
+## Updated
+- **Diagonal Fences**
+- **Diagonal Walls**
+- **Diagonal Windows**
+- **Every Compat (Wood Good)**
+- **Jaden's Nether Expansion**
+- **Moonlight Lib**
+- **Cobblemon Minimap Icons - Powder Edit**
+
+
+## Removed
+- **Emotecraft**
+- **EmoteTweaks**
+- **Highlight**
+- **Origin Furs**
+- **Simple Voice Chat**
+- **VanitySlots**
+- **Voice Chat Interaction**
+- **BCG x AllTheMons**
+- **Exposure**
+- **Experienced Crops**
+- **Held Item Info**
+- **Mythic Metals Decorations**
+- **Pick Up Notifier**
+
+## Fixes
+- Issue when looking at other players. Cause: **Origin Furs**
+- Avalinx Shiny and Regular icons mixed up in **Xaero's Minimap**.
+- Datapack issue loading world. Cause: **BCG x AllTheMons**
