@@ -1,1 +1,69 @@
+## Added
+- **Stack Refill**
+- **Why Stacks of 16?**
+- **Createful Plaques**
+- **Cardiac**
+- **Typewriter Day Counter**
+- **Screenshot to Clipboard**
+- **Screenshot Viewer**
+- **Healing Campfire**
+- **Load My F'ing Tags**
+- **Torcherino**
+- **GEO - Powder Edit**
+- **Nethers Delight Refabricated**
+- **Jaden's Nether Expansion**
+- **Nullscape**
+- **Better End Cities Vanilla**
+- **VillagersPlus**
+- **Medieval Buildings**
+- **Medieval Buildings [End Edition]**
+- **Death Knights (RPG Series)**
+- **The Lost Castle**
+- **Compatemon**
+- **Every Compat (Wood Good)**
+- **Cubes Without Borders**
+- **Show Me Your Skin!**
+- **Highlight**
+- **WITS (What Is This Structure?)**
+- **Universal Enchants**
+- **Sodium Shadowy Path Blocks**
+- **Farmers Structures**
+- **Gravel's Extended Battles**
+- **Cobblemon Alatia's Fakemon Pack**
 
+## Updated
+- **Chat Heads**
+- **ChoiceTheorem's Overhauled Village**
+- **Cobbreeding**
+- **CraftTweaker**
+- **Create: Let The Adventure Begin**
+- **End's Delight**
+- **Forge Config API Port**
+- **ImmediatelyFast**
+- **Moonlight Lib**
+- **MoreCobblemonTweaks**
+- **Mythic Charms**
+- **Not Enough Animations**
+- **Pufferfish's Attributes**
+- **Pufferfish's Skills**
+- **Hydro Reanimodel Pack**
+- **Missing Legends**
+- **Myths and Legends Datapack**
+- **Vanilla Evolved**
+- **Unique Dark**
+- **CCRPG Crafting Tweaks**
+- **Neruina - Ticking Entity Fixer**
+- **Puzzles Lib**
+- **Storage Drawers**
+- **Fzzy Config**
+
+
+## Removed
+- **Cobblemon Anime Cries Soundpack**
+- **[Moonsu] Better GUI Create Style for Better Smithing Table**
+- **Dark Embellished Stone (Advancement Plaques)**
+- **Mob Crates**
+- **BetterEnd + addons**
+- **Better Nether + addons**
+- **Illager Invasion**
+- **Cosmetica**
