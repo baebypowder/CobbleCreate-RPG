@@ -2,6 +2,25 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+      "id": "1.0",
+      "releasedAt": 1731214020000,
+      "updateType": "major"
+    },
+    {
+      "id": "2.0",
+      "releasedAt": 1732059900000,
+      "updateType": "major"
+    },
+    {
+      "id": "2.1",
+      "releasedAt": 1732120620000,
+      "updateType": "minor_breaking"
+    },
+    {
+      "id": "2.2",
+      "releasedAt": 1732380150385,
+      "updateType": "minor_breaking"
+    }
   ]
 }
