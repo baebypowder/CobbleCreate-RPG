@@ -15,12 +15,12 @@
     {
       "id": "2.1",
       "releasedAt": 1732120620000,
-      "updateType": "minor_breaking"
+      "updateType": "minor"
     },
     {
       "id": "2.2",
       "releasedAt": 1732380150385,
-      "updateType": "minor_breaking"
+      "updateType": "minor"
     }
   ]
 }
