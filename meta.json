@@ -34,8 +34,8 @@
     },
     {
       "id": "2.2",
-      "releasedAt": 1732380150385,
-      "updateType": "minor"
+      "releasedAt": 1732395600000,
+      "updateType": "minor_breaking"
             "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/cobblecreate-rpg/"
